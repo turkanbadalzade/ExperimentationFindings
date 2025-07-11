@@ -26,9 +26,9 @@
 
 
 ### The Environment without an Object
-<img src="pics/without-object/pos1.png" width="500"/>
-<img src="pics/without-object/pos2.png" width="500"/>
-<img src="pics/without-object/pos3.png" width="500"/>
-<img src="pics/without-object/pos4.png" width="500"/>
-<img src="pics/without-object/pos5.png" width="500"/>
+<img src="pics/withoout-object/pos1.png" width="500"/>
+<img src="pics/withoout-object/pos2.png" width="500"/>
+<img src="pics/withoout-object/pos3.png" width="500"/>
+<img src="pics/withoout-object/pos4.png" width="500"/>
+<img src="pics/withoout-object/pos5.png" width="500"/>
 
