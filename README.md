@@ -18,5 +18,17 @@
 
 ## The Pictures of Positions
 ### The Environment with an Object
+<img src="pics/with-object/pos1" width="500"/>
+<img src="pics/with-object/pos2" width="500"/>
+<img src="pics/with-object/pos3" width="500"/>
+<img src="pics/with-object/pos4" width="500"/>
+<img src="pics/with-object/pos5" width="500"/>
+
+
 ### The Environment without an Object
+<img src="pics/without-object/pos1" width="500"/>
+<img src="pics/without-object/pos2" width="500"/>
+<img src="pics/without-object/pos3" width="500"/>
+<img src="pics/without-object/pos4" width="500"/>
+<img src="pics/without-object/pos5" width="500"/>
 
