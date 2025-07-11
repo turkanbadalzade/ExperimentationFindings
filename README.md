@@ -18,17 +18,17 @@
 
 ## The Pictures of Positions
 ### The Environment with an Object
-<img src="pics/with-object/pos1.png" width="500"/>
-<img src="pics/with-object/pos2.png" width="500"/>
-<img src="pics/with-object/pos3.png" width="500"/>
-<img src="pics/with-object/pos4.png" width="500"/>
-<img src="pics/with-object/pos5.png" width="500"/>
+<img src="pics/with-object/pos1.png" width="300"/>
+<img src="pics/with-object/pos2.png" width="300"/>
+<img src="pics/with-object/pos3.png" width="300"/>
+<img src="pics/with-object/pos4.png" width="300"/>
+<img src="pics/with-object/pos5.png" width="300"/>
 
 
 ### The Environment without an Object
-<img src="pics/withoout-object/pos1.png" width="500"/>
-<img src="pics/withoout-object/pos2.png" width="500"/>
-<img src="pics/withoout-object/pos3.png" width="500"/>
-<img src="pics/withoout-object/pos4.png" width="500"/>
-<img src="pics/withoout-object/pos5.png" width="500"/>
+<img src="pics/withoout-object/pos1.png" width="300"/>
+<img src="pics/withoout-object/pos2.png" width="300"/>
+<img src="pics/withoout-object/pos3.png" width="300"/>
+<img src="pics/withoout-object/pos4.png" width="300"/>
+<img src="pics/withoout-object/pos5.png" width="300"/>
 
