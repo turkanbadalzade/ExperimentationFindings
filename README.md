@@ -2,11 +2,11 @@
 ## The Plots 
 ### The Environment with an Object
 <img src="plots/environment-with-object/w_bardist_ppos.png" width="300"/>
-<img src="plots/environment-with-object/w_time_bar_pos1.png" width="300"/>
-<img src="plots/environment-with-object/w_time_bar_pos2.png" width="300"/>
-<img src="plots/environment-with-object/w_time_bar_pos3.png" width="300"/>
-<img src="plots/environment-with-object/w_time_bar_pos4.png" width="300"/>
-<img src="plots/environment-with-object/w_time_bar_pos5.png" width="300"/>
+<img src="plots/environment-with-object/w_time_bar_pos1.png" width="500"/>
+<img src="plots/environment-with-object/w_time_bar_pos2.png" width="500"/>
+<img src="plots/environment-with-object/w_time_bar_pos3.png" width="500"/>
+<img src="plots/environment-with-object/w_time_bar_pos4.png" width="500"/>
+<img src="plots/environment-with-object/w_time_bar_pos5.png" width="500"/>
 
 ### The Environment without an Object
 ## The Pictures of Positions
